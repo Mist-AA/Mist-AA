@@ -37,3 +37,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mist-AA&theme=tokyonight&show_icons=true&layout=compact" width="54%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mist-AA&theme=tokyonight&layout=compact" width="41%"/>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mist-AA&label=Profile%20views&color=0d1117&style=flat" alt="Mist-AA" /> </p>
